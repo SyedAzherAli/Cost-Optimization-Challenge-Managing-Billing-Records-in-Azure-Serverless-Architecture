@@ -19,7 +19,7 @@ Here is a detailed production-ready architecture and solution for managing billi
 
 ## Architecture Diagram
 
-![](Architecture image.png)
+![](Architecture-Image.png)
 
 ## 1. Reads
 
